@@ -39,9 +39,9 @@
 
 ## 3. References
 
-Самомодифицирующийся код (win32): https://habr.com/ru/post/272619/
-SMC под Linux: https://tproger.ru/translations/writing-a-self-mutating-program/
-Связывание исполняемого файла с библиотекой DLL: https://learn.microsoft.com/ru-ru/cpp/build/linking-an-executable-to-a-dll?view=msvc-170
-Функция VirtualProtect: https://learn.microsoft.com/ru-ru/windows/win32/api/memoryapi/nf-memoryapi-virtualprotect
-Advanced self-modifying code: https://migeel.sk/blog/2007/08/02/advanced-self-modifying-code/
-Фундаментальные основы хакерства. Боремся с дизассемблерами и затрудняем реверс программ: https://xakep.ru/2022/08/25/nezumi-hacking-guide-27/
+Самомодифицирующийся код (win32): https://habr.com/ru/post/272619/ <br/>
+SMC под Linux: https://tproger.ru/translations/writing-a-self-mutating-program/ <br/>
+Связывание исполняемого файла с библиотекой DLL: https://learn.microsoft.com/ru-ru/cpp/build/linking-an-executable-to-a-dll?view=msvc-170 <br/>
+Функция VirtualProtect: https://learn.microsoft.com/ru-ru/windows/win32/api/memoryapi/nf-memoryapi-virtualprotect <br/>
+Advanced self-modifying code: https://migeel.sk/blog/2007/08/02/advanced-self-modifying-code/ <br/>
+Фундаментальные основы хакерства. Боремся с дизассемблерами и затрудняем реверс программ: https://xakep.ru/2022/08/25/nezumi-hacking-guide-27/ <br/>
