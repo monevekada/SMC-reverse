@@ -17,6 +17,10 @@
 
 ![screen3](../main/Screenshots/screen3.jpg)
 
+Для функции VirtualProtect отдельно выводится информация о ее параметрах (если мы можем найти их значения):
+
+![screen9](../main/Screenshots/screen9.jpg)
+
 4. Также в выводе показывается, используется ли явное связывание DLL.
 
 ![screen7](../main/Screenshots/screen7.jpg)
@@ -45,3 +49,4 @@ SMC под Linux: https://tproger.ru/translations/writing-a-self-mutating-progra
 Функция VirtualProtect: https://learn.microsoft.com/ru-ru/windows/win32/api/memoryapi/nf-memoryapi-virtualprotect <br/>
 Advanced self-modifying code: https://migeel.sk/blog/2007/08/02/advanced-self-modifying-code/ <br/>
 Фундаментальные основы хакерства. Боремся с дизассемблерами и затрудняем реверс программ: https://xakep.ru/2022/08/25/nezumi-hacking-guide-27/ <br/>
+The Official Radare2 Book: https://book.rada.re/index.html <br/>
